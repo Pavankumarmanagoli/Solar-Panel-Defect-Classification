@@ -1,0 +1,21 @@
+cat > .gitignore << 'EOF'
+# Virtual envs
+.venv/
+venv/
+.env/
+.venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Videos / recordings
+*.mov
+
+# Model weights (optional - prevents GitHub size errors)
+*.h5
+EOF
