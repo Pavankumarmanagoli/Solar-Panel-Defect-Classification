@@ -105,7 +105,6 @@ trained_effnet_finetune.h5
 streamlit run app.py
 ```
 
-Open the URL shown in terminal (typically `http://localhost:8501`).
 
 ---
 
@@ -118,7 +117,18 @@ Open the URL shown in terminal (typically `http://localhost:8501`).
 5. Run Streamlit on desired host/port
 6. Configure EC2 Security Group inbound port
 7. (Recommended) Use Nginx reverse proxy + process manager (systemd)
+   
 ---
 
 ## License
 This repository is licensed under the terms in `MIT LICENSE`.
+
+---
+
+## Demo Video  
+https://drive.google.com/file/d/1_Wz3GgCDS9RxQr4QJSz_FnzhwOOvEytY/view?usp=sharing
+
+
+
+
+
