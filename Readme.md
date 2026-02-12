@@ -16,6 +16,11 @@ The complete workflow includes:
 - Cloud deployment readiness (AWS EC2)
 
 ---
+## System Architecture  
+
+![Architecture](images/Solar_Panel_Defect_Classification_Architrcture_Diagram.png)  
+
+---
 
 ## Tech Stack
 
@@ -127,6 +132,7 @@ This repository is licensed under the terms in `MIT LICENSE`.
 
 ## Demo Video  
 https://drive.google.com/file/d/1_Wz3GgCDS9RxQr4QJSz_FnzhwOOvEytY/view?usp=sharing
+
 
 
 
