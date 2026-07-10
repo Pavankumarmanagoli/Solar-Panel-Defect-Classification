@@ -53,7 +53,7 @@ if uploaded_file is not None:
    
     st.markdown(f"""
                 ### **Prediction: {predicted_class}**
-                ***Confidence: {confidence:.1%}**
+                **Confidence: {confidence:.1%}**
                 """)
                
     if predicted_class == "Clean":
