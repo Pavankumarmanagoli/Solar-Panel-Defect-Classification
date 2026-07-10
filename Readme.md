@@ -1,6 +1,6 @@
 # ☀️ Solar Panel Defect Classification
 
-A deep learning project that automatically detects defects on solar panels from images.  
+A DL project that automatically detects defects on solar panels from images.  
 It combines **computer vision**, **transfer learning**, and a **Streamlit web app** to deliver practical inspection support for field teams.
 
 ---
