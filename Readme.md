@@ -1,7 +1,12 @@
 # ☀️ Solar Panel Defect Classification
 
-A DL project that automatically detects defects on solar panels from images.  
+A Deep Learning project that automatically detects defects on solar panels from images.  
 It combines **computer vision**, **transfer learning**, and a **Streamlit web app** to deliver practical inspection support for field teams.
+
+---
+
+## Demo Video  
+https://drive.google.com/file/d/1_Wz3GgCDS9RxQr4QJSz_FnzhwOOvEytY/view?usp=sharing
 
 ---
 
@@ -128,10 +133,7 @@ streamlit run app.py
 ## License
 This repository is licensed under the terms in `MIT LICENSE`.
 
----
 
-## Demo Video  
-https://drive.google.com/file/d/1_Wz3GgCDS9RxQr4QJSz_FnzhwOOvEytY/view?usp=sharing
 
 
 
